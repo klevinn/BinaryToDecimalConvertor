@@ -6,10 +6,10 @@ import (
 
 func main() {
 	fmt.Println("1. Decimal To Binary")
-	golang.decimalToBinary()
+	Golang.decimalToBinary()
 	fmt.Println("2. Binary To Decimal")
-	golang.binaryToDecimal()
+	Golang.binaryToDecimal()
 
 	fmt.Println("1. Bubble Sort")
-	golang.bubbleSort()
+	Golang.bubbleSort()
 }
