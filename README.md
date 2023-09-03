@@ -9,5 +9,7 @@ A simple CLI project that converts Binary to Decimal and Decimal to Binary [[Pyt
 [Bubble Sort](Python/bubblesort/README.md)
 A simple algorithm that performs bubble sort on an array of integers [[Python](Python/bubblesort/bubblesort.py) / [Golang](Golang/bubblesort.go)]
 
+[Selection Sort](Python/selectionsort/README.md)
+A simple algorithm that performs selection sort on an array of integers [[Python](Python/selectionsort/selectionsort.py) / [Golang](Golang/selectionsort.go)]
 
 
