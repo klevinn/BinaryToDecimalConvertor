@@ -41,6 +41,12 @@ func main() {
 				fmt.Println("2. Reverse Selection Sort")
 				Golang.RevSelectionSort()
 			} else if choice == 4 {
+				Array.PrintPresetArray()
+				fmt.Println("1. Insertion Sort")
+				Golang.InsertionSort()
+				fmt.Println("2. Reverse Insertion Sort")
+				Golang.RevInsertionSort()
+			} else if choice == 5 {
 				break
 			}
 		}

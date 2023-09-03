@@ -12,4 +12,8 @@ A simple algorithm that performs bubble sort on an array of integers [[Python](P
 [Selection Sort](Python/selectionsort/README.md)
 A simple algorithm that performs selection sort on an array of integers [[Python](Python/selectionsort/selectionsort.py) / [Golang](Golang/selectionsort.go)]
 
+[Insertion Sort](Python/insertionsort/README.md)
+A simple algorithm that performs insertion sort on an array of integers [[Python](Python/insertionsort/insertionsort.py) / [Golang](Golang/insertionsort.go)]
+
+
 
