@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func decimalToBinary() {
+func DecimalToBinary() {
 	var decimal int
 	fmt.Print("Enter a decimal number: ") // No new line
 	fmt.Scan(&decimal)                    // Takes input and puts it into the variable
@@ -16,7 +16,7 @@ func decimalToBinary() {
 
 }
 
-func binaryToDecimal() {
+func BinaryToDecimal() {
 	// Conversion taken from https://stackoverflow.com/questions/9271469/go-convert-string-which-represent-binary-number-into-int
 	var binary string // based on the example, we take a string that represents the Binary
 	fmt.Print("Enter a binary number: ")
