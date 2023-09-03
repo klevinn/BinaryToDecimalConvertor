@@ -11,7 +11,8 @@ func menu() {
 	fmt.Println("1. Decimal To Binary / Binary To Decimal")
 	fmt.Println("2. Bubble Sort / Reverse Bubble Sort")
 	fmt.Println("3. Selection Sort / Reverse Selection Sort")
-	fmt.Println("4. Exit")
+	fmt.Println("4. Insertion Sort / Reverse Insertion Sort")
+	fmt.Println("5. Exit")
 }
 
 func main() {
