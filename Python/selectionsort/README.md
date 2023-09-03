@@ -1,4 +1,4 @@
-# Bubble Sort
+# Selection Sort
 
 This is a simple command line interface (CLI) program that can perform Selection Sort on an array of numbers. There is a both a Python and Golang version in this repository
 
