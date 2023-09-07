@@ -15,5 +15,9 @@ A simple algorithm that performs selection sort on an array of integers [[Python
 [Insertion Sort](Python/insertionsort/README.md)
 A simple algorithm that performs insertion sort on an array of integers [[Python](Python/insertionsort/insertionsort.py) / [Golang](Golang/insertionsort.go)]
 
+[Merge Sort](Python/mergesort/README.md)
+A simple algorithm that performs merge sort on an array of integers [[Python](Python/mergesort/mergesort.py) / [Golang](Golang/mergesort.go)]
 
+[Reverse Merge Sort](Python/mergesort/README.md)
+A simple algorithm that performs reverse merge sort on an array of integers [[Python](Python/mergesort/reversemergesort.py) / [Golang](Golang/revmergesort.go)]
 
