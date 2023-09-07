@@ -12,7 +12,8 @@ func menu() {
 	fmt.Println("2. Bubble Sort / Reverse Bubble Sort")
 	fmt.Println("3. Selection Sort / Reverse Selection Sort")
 	fmt.Println("4. Insertion Sort / Reverse Insertion Sort")
-	fmt.Println("5. Exit")
+	fmt.Println("5. Merge Sort / Reverse Merge Sort")
+	fmt.Println("0. Exit")
 }
 
 func main() {
@@ -48,6 +49,14 @@ func main() {
 				fmt.Println("2. Reverse Insertion Sort")
 				Golang.RevInsertionSort()
 			} else if choice == 5 {
+				Array.PrintPresetArray()
+				fmt.Println("1. Merge Sort")
+				sortedlist := Golang.MergeSort(Array.TestArr)
+				fmt.Println("Sorted Array:", sortedlist)
+				fmt.Println("2. Reverse Merge Sort")
+				sortedlist2 := Golang.RevMergeSort(Array.TestArr)
+				fmt.Println("Sorted Array:", sortedlist2)
+			} else if choice == 0 {
 				break
 			}
 		}
